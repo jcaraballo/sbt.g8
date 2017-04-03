@@ -15,6 +15,6 @@ And maybe afterwards
 
 And then maybe even
 
-    git remote add origin git@github.com:jcaraballo/<name-of-the-project>.git
+    git remote add origin git@github.com:<github-user>/<name-of-the-project>.git
     git push -u origin master
 
