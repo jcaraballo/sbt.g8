@@ -7,7 +7,7 @@ Use with
 sbt new jcaraballo/sbt.g8
 ```
 
-Or, alternatively, if you prefer to use it from your own git clone, you can do so with
+Or, alternatively, if you prefer to use it from your own git clone of this repository, you can do so with
 ```
 git clone https://github.com/jcaraballo/sbt.g8.git
 sbt new file://sbt.g8
