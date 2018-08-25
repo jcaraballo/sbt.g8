@@ -30,4 +30,4 @@ git clone https://github.com/jcaraballo/sbt.g8.git
 sbt file://sbt.g8
 ```
 
-Note that here sbt.g8 is the relative path to your directory with the cloned repository of the template.
+Note that here `sbt.g8` is the relative path to your directory with the cloned repository of the template.
