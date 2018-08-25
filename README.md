@@ -10,7 +10,7 @@ sbt new jcaraballo/sbt.g8
 Or, alternatively, if you prefer to use it from your own git clone, you can do so with
 ```
 git clone https://github.com/jcaraballo/sbt.g8.git
-sbt file://sbt.g8
+sbt new file://sbt.g8
 ```
 (note that here `sbt.g8` is the relative path to your directory with the cloned repository of the template.)
 
